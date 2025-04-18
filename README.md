@@ -38,7 +38,8 @@
 
 [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=ignite-shop&theme=github_dark)](https://github.com/GerardoRodrigues/ignite-shop) 
 [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=pizza-shop&theme=github_dark)](https://github.com/GerardoRodrigues/pizza-shop)
-[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=estudando-react&theme=github_dark)](https://github.com/GerardoRodrigues/estudando-react) 
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=estudando-react&theme=github_dark)](https://github.com/GerardoRodrigues/estudando-react)
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=django-space&theme=github_dark)](https://github.com/GerardoRodrigues/django-space) 
 
 ## Talk to me:
 
