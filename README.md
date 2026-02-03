@@ -1,4 +1,4 @@
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20world!;Front-end%20Web%20Developer;Undergraduate%20of%20Computer%20Science;Always%20learning%20new%20things&font=Jetbrains%20Mono&center=true&width=440&height=45&color=628fdb&size=10" style="text-align: center; width:100%">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20world!;Front-end%20Web%20Developer;Graduated%20of%20Computer%20Science;Always%20learning%20new%20things&font=Jetbrains%20Mono&center=true&width=440&height=45&color=628fdb&size=10" style="text-align: center; width:100%">
    
 ## Main Technologies
 
