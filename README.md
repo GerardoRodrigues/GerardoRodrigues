@@ -15,7 +15,7 @@
 ## Secondary Technologies   
 <img src="https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=000&labelColor=61DBFB" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img srt="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img srt="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
@@ -24,7 +24,7 @@
 ## About Me
 
 - 🎓 Graduated - <a href="http://www.uece.br/" target="_blank">UECE - Ceará State University</a>.
-- 💻 I am currently improving my knowledge of Angular, Ionic and learning ReactJS, NextJs, Python and Django.
+- 💻 I am currently improving my knowledge of Angular, Ionic and learning ReactJS, NextJs and Python.
 - 💜 Front End is so perfect!
 - ✨ "You don't have to be a hero to save the world".
 <br>
