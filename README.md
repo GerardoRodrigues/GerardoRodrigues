@@ -15,7 +15,7 @@
 ## Secondary Technologies   
 <img src="https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=000&labelColor=61DBFB" />
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img srt="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
@@ -28,13 +28,11 @@
 - 💜 Front End is so perfect!
 - ✨ "You don't have to be a hero to save the world".
 <br>
-
-## My Github stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoRodrigues&layout=compact)
    
 ## My recent repositories
 
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=the-blog&theme=github_dark)](https://github.com/GerardoRodrigues/the-blog) 
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=app-links&theme=github_dark)](https://github.com/GerardoRodrigues/app-links) 
 [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=ignite-shop&theme=github_dark)](https://github.com/GerardoRodrigues/ignite-shop) 
 [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=pizza-shop&theme=github_dark)](https://github.com/GerardoRodrigues/pizza-shop)
 [![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GerardoRodrigues&repo=estudando-react&theme=github_dark)](https://github.com/GerardoRodrigues/estudando-react)
